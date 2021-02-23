@@ -1,8 +1,6 @@
-<h1 align='center'> Hi there, I'm Morgane 👋</h1>
+###  Hi there, I'm Morgane 👋
+#### I am a Web Developer working in Paris
 
-<h2 align='center'> I am a web developer working in Paris</h2>
-
--------------
 - ⚙️ I use `.html`, `.css`, `.js`, `.react.js`, `.node.js`, `.express.js`, `.mongoDB`
 - 🖼️ I am also interested in UI/UX Design
 - 🎓 I learnt to code at [Simplon](https://simplon.co/)
